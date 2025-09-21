@@ -1,7 +1,7 @@
  <header>
-    <h1>🎰 Twirle & Win: Beyoncé's Three-Act Epic</h1>
+    <h1>🎰 Twirl & Win: Beyoncé's Three-Act Epic</h1>
     <p><strong>Overview:</strong><br>
-    <em>Twirle & Win</em> is a Beyoncé-themed interactive slot machine inspired by her legendary <strong>three-act project</strong>. Built with <strong>HTML, CSS, and JavaScript</strong>, this project gamifies fan interaction with visual nods to <em>Renaissance</em>, <em>Cowboy Carter</em>, and the mysterious Act III. Perfect for small music businesses looking to add excitement and engagement to their brand.</p>
+    <em>Twirl & Win</em> is a Beyoncé-themed interactive slot machine inspired by her legendary <strong>three-act project</strong>. Built with <strong>HTML, CSS, and JavaScript</strong>, this project gamifies fan interaction with visual nods to <em>Renaissance</em>, <em>Cowboy Carter</em>, and the mysterious Act III. Perfect for small music businesses looking to add excitement and engagement to their brand.</p>
 
 ![beyonce-renni-pic](https://github.com/user-attachments/assets/c7a98e40-9102-4277-bd01-e57a010d6a8f)
 
@@ -82,7 +82,7 @@
   </section>
 
   <footer>
-    <p>© 2025 Sylvie Barjolo | Twirle & Win – Fan project inspired by Beyoncé’s artistry.</p>
+    <p>© 2025 Sylvie Barjolo | Twirl & Win – Fan project inspired by Beyoncé’s artistry.</p>
   </footer>
 
 </body>
