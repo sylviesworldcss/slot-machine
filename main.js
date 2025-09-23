@@ -87,5 +87,5 @@ function maxiShuffle() {
 
 
 
-//  above code inspired by @leonnoel class clolor picker template, @xsarayu, @CodingWCal, @henryamatsu, @jorge0510  @TheophilusNdukwe 
+//  above code inspired by @leonnoel class color picker template, @ozazeez @xsarayu, @CodingWCal, @henryamatsu, @jorge0510  @TheophilusNdukwe 
 //  All had different js and I used google and gemini to explain what was what. For the functionality of this project I used the mixture for the structure.
